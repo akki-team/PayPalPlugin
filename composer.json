@@ -1,5 +1,5 @@
 {
-    "name": "sylius/paypal-plugin",
+    "name": "akki/paypal-plugin",
     "type": "sylius-plugin",
     "keywords": ["sylius", "sylius-plugin"],
     "description": "PayPal plugin for Sylius.",
