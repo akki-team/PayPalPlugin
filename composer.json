@@ -1,5 +1,5 @@
 {
-    "name": "akki/paypal-plugin",
+    "name": "sylius/paypal-plugin",
     "type": "sylius-plugin",
     "keywords": ["sylius", "sylius-plugin"],
     "description": "PayPal plugin for Sylius.",
@@ -43,8 +43,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Akki\\PayPalPlugin\\": "src/",
-            "Tests\\Akki\\PayPalPlugin\\": "tests/"
+            "Sylius\\PayPalPlugin\\": "src/",
+            "Tests\\Sylius\\PayPalPlugin\\": "tests/"
         }
     },
     "autoload-dev": {
