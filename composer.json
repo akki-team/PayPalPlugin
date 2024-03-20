@@ -43,8 +43,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Sylius\\PayPalPlugin\\": "src/",
-            "Tests\\Sylius\\PayPalPlugin\\": "tests/"
+            "Akki\\PayPalPlugin\\": "src/",
+            "Tests\\Akki\\PayPalPlugin\\": "tests/"
         }
     },
     "autoload-dev": {
